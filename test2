@@ -1,5 +1,9 @@
 foo
 aaaa
 aaaaaaa
+<<<<<<< HEAD
 bbb
+=======
+bar
+>>>>>>> b3
 
